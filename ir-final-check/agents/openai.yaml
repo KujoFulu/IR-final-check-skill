@@ -1,0 +1,3 @@
+interface:
+  display_name: "IR-final-check"
+  short_description: "逐页终审行业报告，提交核查清单，并按本人明确批准的范围修改与回查"
